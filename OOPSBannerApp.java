@@ -1,4 +1,4 @@
-**
+/**
  * OOPSBannerApp UC7 – Store Character Pattern in a Class
  * Demonstrates encapsulation of character-to-pattern mapping
  * Using an inner static class and utility methods.
